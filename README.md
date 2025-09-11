@@ -19,6 +19,7 @@
 ---
 
 Este projeto implementa um assistente virtual simples e funcional, capaz de ouvir comandos de voz pelo microfone, interpretar o que foi dito e responder com voz sintetizada. Ele também executa ações como abrir o YouTube, Wikipedia ou buscar farmácias próximas.  
+
 This project implements a simple and functional virtual assistant capable of listening to voice commands through the microphone, interpreting what was said, and responding with synthesized speech. It also performs actions such as opening YouTube, Wikipedia, or searching for nearby pharmacies.
 
 ---
@@ -97,9 +98,7 @@ python assistente.py
 Fale um comando como:
 
 “abrir YouTube lo-fi”
-
 “Wikipedia inteligência artificial”
-
 “farmácia perto de mim”
 
 EN:
@@ -113,9 +112,7 @@ python assistente.py
 Speak a command such as:
 
 “open YouTube lo-fi”
-
 “Wikipedia artificial intelligence”
-
 “pharmacy near me”
 
 ---
