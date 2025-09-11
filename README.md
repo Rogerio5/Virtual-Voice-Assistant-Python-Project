@@ -125,11 +125,6 @@ Speak a command such as:
 
 <p>
   <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="SpeechRecognition" title="SpeechRecognition (Python)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Speech_bubble_icon.svg"/>
-  <img align="left" alt="gTTS" title="gTTS (Google Text-to-Speech)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Speaker_Icon.svg"/>
-  <img align="left" alt="PyAudio" title="PyAudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microphone_icon.svg"/>
-  <img align="left" alt="Webbrowser" title="Webbrowser (Python built-in)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Internet_Explorer_9_icon.svg"/>
-
   <img align="left" alt="SpeechRecognition" title="SpeechRecognition" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   <img align="left" alt="gTTS" title="gTTS (Google Text-to-Speech)" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
   <img align="left" alt="PyAudio" title="PyAudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
