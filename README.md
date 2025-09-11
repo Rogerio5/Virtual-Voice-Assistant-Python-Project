@@ -158,8 +158,12 @@ This project is under the MIT license. For more details, see the `LICENSE` file.
 
 ---
 
-🏁 Conclusão / Conclusion
-PT: Este assistente de voz local é uma aplicação prática de PLN e automação com Python. Ele pode ser expandido com novos comandos, integração com APIs externas, ou até mesmo uma interface gráfica. Um ótimo ponto de partida para projetos mais avançados de inteligência artificial conversacional.
+## 🏁 Conclusão / Conclusion
 
-EN: This local voice assistant is a practical application of NLP and automation using Python. It can be expanded with new commands, integrated with external APIs, or even enhanced with a graphical interface. A great starting point for more advanced conversational AI projects.
+PT:
+💬 Este assistente de voz local é uma aplicação prática de Processamento de Linguagem Natural (PLN) e automação com Python. Ele pode ser expandido com novos comandos, integração com APIs externas, ou até mesmo uma interface gráfica. Representa um excelente ponto de partida para projetos mais avançados de inteligência artificial conversacional, com potencial para evoluir em interfaces mais complexas, como chatbots inteligentes, agentes de suporte automatizados ou assistentes pessoais interativos.
+
+EN: 
+💬 This local voice assistant is a practical application of Natural Language Processing (NLP) and automation with Python. It can be expanded with new commands, integration with external APIs, or even a graphical interface. It represents an excellent starting point for more advanced conversational artificial intelligence projects, with the potential to evolve into more complex interfaces, such as intelligent chatbots, automated support agents, or interactive personal assistants.
+
 
