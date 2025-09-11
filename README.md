@@ -98,7 +98,9 @@ python assistente.py
 Fale um comando como:
 
 “abrir YouTube lo-fi”
+
 “Wikipedia inteligência artificial”
+
 “farmácia perto de mim”
 
 EN:
@@ -112,7 +114,9 @@ python assistente.py
 Speak a command such as:
 
 “open YouTube lo-fi”
+
 “Wikipedia artificial intelligence”
+
 “pharmacy near me”
 
 ---
@@ -125,6 +129,13 @@ Speak a command such as:
   <img align="left" alt="gTTS" title="gTTS (Google Text-to-Speech)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Speaker_Icon.svg"/>
   <img align="left" alt="PyAudio" title="PyAudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microphone_icon.svg"/>
   <img align="left" alt="Webbrowser" title="Webbrowser (Python built-in)" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Internet_Explorer_9_icon.svg"/>
+
+
+  <img alt="SpeechRecognition" title="SpeechRecognition" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Voice_icon.svg"/>
+  <img alt="gTTS" title="Google Text-to-Speech" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Google_Text_to_Speech_logo.svg"/>
+  <img alt="PyAudio" title="PyAudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microphone_icon_black.svg"/>
+  <img alt="Webbrowser" title="Python Webbrowser" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Globe_icon.svg"/>
+
 </p>
 
 <br clear="all"/>
