@@ -1,10 +1,22 @@
 # Virtual-Voice-Assistant-Python-Project
 
 # 🤖 Assistente de Voz Local — Projeto em Python  
-# 🤖 Local Voice Assistant — Python Project
+
 
 ## 🧠 Sistema de Assistência Virtual com Reconhecimento de Fala e Resposta por Voz  
-## 🧠 Virtual Assistant System with Speech Recognition and Voice Response
+
+![Capa do Projeto - Assistente Virtual](assistente-virtual-capa.png)
+
+---
+## 🏅 Badges
+
+- 📦 Tamanho do repositório:  
+  ![GitHub repo size](https://img.shields.io/repo-size/Rogerio5/Virtual-Voice-Assistant-Python-Project)
+
+- 📄 Licença do projeto:  
+  ![GitHub license](https://img.shields.io/github/license/Rogerio5/Virtual-Voice-Assistant-Python-Project)
+
+---
 
 Este projeto implementa um assistente virtual simples e funcional, capaz de ouvir comandos de voz pelo microfone, interpretar o que foi dito e responder com voz sintetizada. Ele também executa ações como abrir o YouTube, Wikipedia ou buscar farmácias próximas.  
 This project implements a simple and functional virtual assistant capable of listening to voice commands through the microphone, interpreting what was said, and responding with synthesized speech. It also performs actions such as opening YouTube, Wikipedia, or searching for nearby pharmacies.
